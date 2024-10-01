@@ -1,0 +1,38 @@
+*{
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.main {
+    margin-top: 3rem;
+}
+.main h1 {
+    color: blueviolet;
+    font-weight: 800;
+}
+
+.divStyle {
+    display: flex;
+}
+.divStyle h6 {
+    font-weight: 600;
+    margin-right: 2rem;
+}
+.searchArea button {
+    background-color: rgba(137, 43, 226, 0.834);
+    color: white;
+    border: slateblue;
+    border-radius:  13px;
+    height: 30px;      
+    width: 80px;
+    font-weight: 600;
+
+}
+.searchArea input {
+    border: 1px solid slateblue;
+    border-radius:  13px;
+    height: 30px;      
+    width: 230px;
+    margin-right: 2rem;
+}
